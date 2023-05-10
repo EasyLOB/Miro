@@ -26,7 +26,7 @@ Please refer to the following **Medium** story tutorial:
 
 Please refer to the following **Medium** story tutorial:
 
-[Miro App with Python and Flask](https://medium.com/@easylob/miro-app-with-python-and-flask-aaa1f408b403)
+[Miro Web SDK App with Python and Flask](https://medium.com/@easylob/miro-app-with-python-and-flask-aaa1f408b403)
 
 To get the application running you need to install the following:
 
