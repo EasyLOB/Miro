@@ -4,4 +4,4 @@
 
 Please refer to the following Medium story for a complete tutorial:
 
-[Create Miro API Clients in C# and Python from OpenAPI Specification]()
+[Create Miro API Clients in C# and Python from OpenAPI Specification](https://medium.com/@easylob/create-miro-api-clients-in-c-and-python-from-openapi-specification-6cf2ae527cee)
